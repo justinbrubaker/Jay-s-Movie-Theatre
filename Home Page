@@ -1,17 +1,18 @@
 # Jay-s-Movie-Theatre
 Building a theatre reservation system
+<!doctype html>
 <html>
   <head>
     <link rel="stylesheet" type="text/css" href="movie-test.css"
   </head>
   <title> Jay's Movie Theater </title>
-  <body background="popcorn.jpg">
+  <body>
    <nav>
     <ul>
       <li><strong>Home</strong></li>
-      <li><a href="https://www.google.com/maps/place/Clementine+Court,+California+92503/@33.8740382,-117.4293049,17z/data=!3m1!4b1!4m5!3m4!
+      <li><a href="https://www.google.com/maps/place/Clementine+Court,+California+92503/@33.8740382,-117.4293049,17z/data=!3m1!4b1!4m5!3m4!1s0x80dcba417075b761:0x6d0b1cc6378e7686!8m2!3d33.8740382!4d-117.4271162"  target="_blank"          
 
-1s0x80dcba417075b761:0x6d0b1cc6378e7686!8m2!3d33.8740382!4d-117.4271162"  target="_blank"           >Location</a></li>
+ >Location</a></li>
       <li><a href="clients.html">Movies</a></li>
       <li><a href="sample.html">Reservations</a></li>
       <li><a href="services.html">Contact us</a></li>
@@ -20,6 +21,9 @@ Building a theatre reservation system
   <div>
     <h1> <img id="logo" src="theater_image.jpg" alt="Movies theatre logo" style="width:200px;height:200px:">Jays Movie Theater</h1>
   </div>
+<div>
+ <img src="popcorn.jpg" alt="popcorn">
+</div>
   <div>
     <h2 style="text-align:center";> Current Movies</h2>
   </div>
